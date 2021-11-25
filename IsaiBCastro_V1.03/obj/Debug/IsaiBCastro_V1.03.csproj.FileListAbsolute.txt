@@ -1,0 +1,42 @@
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\bin\Debug\IsaiBCastro_V1.03.exe.config
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.Form1.resources
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.IntercalacionDeArchivos.resources
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.MesclaDirecta.resources
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.MezclaEquilibrada.resources
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.Properties.Resources.resources
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.csproj.GenerateResource.Cache
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\bin\Debug\IsaiBCastro_V1.03.exe
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\bin\Debug\IsaiBCastro_V1.03.pdb
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.exe
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.pdb
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.csproj.AssemblyReference.cache
+E:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.csproj.CoreCompileInputs.cache
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\bin\Debug\IsaiBCastro_V1.03.exe.config
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\bin\Debug\IsaiBCastro_V1.03.exe
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\bin\Debug\IsaiBCastro_V1.03.pdb
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.csproj.AssemblyReference.cache
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.Form1.resources
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.IntercalacionDeArchivos.resources
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.MesclaDirecta.resources
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.MezclaEquilibrada.resources
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.Properties.Resources.resources
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.csproj.GenerateResource.cache
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.csproj.CoreCompileInputs.cache
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.exe
+D:\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.pdb
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\bin\Debug\IsaiBCastro_V1.03.exe.config
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\bin\Debug\IsaiBCastro_V1.03.exe
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\bin\Debug\IsaiBCastro_V1.03.pdb
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.csproj.AssemblyReference.cache
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.Form1.resources
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.IntercalacionDeArchivos.resources
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.MesclaDirecta.resources
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.MezclaEquilibrada.resources
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.Properties.Resources.resources
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.csproj.GenerateResource.cache
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.csproj.CoreCompileInputs.cache
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.exe
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1.03.pdb
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.Grafo.resources
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.Balanceado.resources
+D:\Estructuras 2\IsaiBCastro_V1.03\IsaiBCastro_V1.03\obj\Debug\IsaiBCastro_V1._03.Binario.resources
